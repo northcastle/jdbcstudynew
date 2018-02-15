@@ -23,6 +23,7 @@ public class TestC3p0 {
 		Connection connection = cpds.getConnection();
 		System.out.println(connection);
 		System.out.println(cpds.getInitialPoolSize());
+		System.out.println("测试Git的语句，接下来我准备用git来管理以后的每个项目");
 		
 	}
 
